@@ -1,0 +1,39 @@
+{
+  "buttons": [
+    {
+      "image": "example.jpg",
+      "name": "Start message",
+      "text": "Welcome!",
+      "btn": [
+        {
+          "name": "Main btn",
+          "text": "Text of main btn",
+          "btn": [
+            {
+              "name": "Btn in main btn",
+              "text": "Example message",
+              "btn": [
+                {
+                  "name" : "Btn in btn",
+                  "text" : "Hello, world!"
+                }
+              ]
+            },
+            {
+              "name": "Btn in main btn 2",
+              "text": "Text of btn 2"
+            }
+          ]
+        },
+        {
+          "name": "Main btn 2",
+          "text": "Example text"
+        },
+        {
+          "name": "Main btn 3",
+          "text": "Example text"
+        }
+      ]
+    }
+  ]
+}

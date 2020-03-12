@@ -1,0 +1,11 @@
+{
+    "telegram" : {
+        "token" : "123456789:abcdefghijklmnopqrstuvxyz",
+        "admin_id" : "123456789"
+    },
+    "server" : {
+    	"domain" : "https://{site_url}",
+        "root" : "/path/to/bot/",
+    	"index_page" : "index.php"
+    }
+}
